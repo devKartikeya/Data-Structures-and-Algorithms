@@ -1,4 +1,4 @@
-//Union of two arrays
+//Find Union and Intersection of two arrays
 let arr1 = [2, 4, 4, 6, 8, 10, 7, 8, 10, 30, 50, 30];
 let arr2 = [2, 7, 8, 99, 1, 34, 56, 67, 78];
 
@@ -13,7 +13,7 @@ for (let i = 0; i < arr1.length; i++) {
 console.log(`Union of arrays is ${union}`);
 console.log(`Intersection of two arrays is ${intersection}`);
 
-//Find all pairs iwth a given sum
+//Find all pairs with a given sum
 let array = [2, 4, 18, 6, 16, 4, 15, 19, 5, 3];
 let sum = 20;
 
