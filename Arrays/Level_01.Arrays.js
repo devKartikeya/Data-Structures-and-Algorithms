@@ -27,9 +27,7 @@ let evenArray = [2, 7, 8, 99, 1, 34, 56, 67, 78];
 let count = 0;
 
 for (const iterator of evenArray) {
-    if (iterator % 2 == 0) {
-        count++;
-    }
+    if (iterator % 2 === 0) count++;
 }
 
 console.log(`Number of even numbers in array is ${count}`);
@@ -64,9 +62,7 @@ let sortedArray = [2, 4, 4, 6, 8, 10, 8, 10, 30, 50, 30];
 let uniqueArray = [];
 
 sortedArray.forEach(element => {
-    if (!uniqueArray.includes(element)) {
-        uniqueArray.push(element);
-    }
+    if (!uniqueArray.includes(element)) uniqueArray.push(element);
 });
 
 console.log(uniqueArray);
