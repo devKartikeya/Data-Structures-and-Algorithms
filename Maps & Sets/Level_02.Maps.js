@@ -1,4 +1,5 @@
 /* Maps */
+
 //Count frequency of string
 let string = "kartikeya";
 let map = new Map();
@@ -44,7 +45,7 @@ for (const iterator of array) {
     }
 }
 
-//Make a map where array keys are elements and values are elmenet's square
+//Make a map where array keys are elements and values are element's square
 let num = [2, 3, 4, 5, 6, 7, 8];
 let newMap = new Map();
 
@@ -54,7 +55,7 @@ for (const iterator of num) {
 
 console.log(newMap);
 
-//Remove duplicates from an Array and find first repeating elrment
+//Remove duplicates from an Array and find first repeating element
 let numArray = [2, 4, 5, 6, 6, 7, 2, 9, 3, 4];
 let numMap = new Map();
 
@@ -69,7 +70,7 @@ for (const iterator of numArray) {
 
 console.log(Array.from(numMap.keys()));
 
-//Group aNumbers by Even and Odd
+//Group Numbers by Even and Odd
 let evenArr = [];
 let oddArr = [];
 for (const iterator of numArray) {
