@@ -45,7 +45,7 @@ Maps & Sets (hash-based problems, frequency counting)
 
 Algorithms (sorting, searching, basic techniques)
 
-
+Pattern Printing 
 
 ---
 
