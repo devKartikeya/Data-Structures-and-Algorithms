@@ -27,6 +27,7 @@ Data-Structures-and-Algorithms/
 ├── strings/
 ├── maps-and-sets/
 └── algorithms/
+└── patterns/
 
 > 🚧 More folders and topics will be added as I continue learning.
 
@@ -45,7 +46,7 @@ Maps & Sets (hash-based problems, frequency counting)
 
 Algorithms (sorting, searching, basic techniques)
 
-Pattern Printing 
+Pattern Printing (star, number, pascal)
 
 ---
 
